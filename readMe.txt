@@ -11,3 +11,5 @@ How to Run the Program:
                 StockSpan.cpp
                 makefile
                 readMe.txt
+                CMakeLists.txt
+               
